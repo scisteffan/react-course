@@ -13,13 +13,13 @@
 
 This is the repository for UI.dev's "React" course project. 
 
-For more information on the course, visit __[ui.dev/react/](http://github-battle.ui.dev/)__.
+For more information on the course, visit __[ui.dev/react](https://ui.dev/react/)__.
 
 ### Project
 
 This project is a "Github Battle" app. You'll be able to see the most popular repos for a variety of languages as well as battle two Github users to see who has the better profile.
 
-You can view the final project at __[github-battle.ui.dev/](http://github-battle.ui.dev/)__
+You can view the final project at __[github-battle.ui.dev](http://github-battle.ui.dev/)__
 
 ### Branches
 
